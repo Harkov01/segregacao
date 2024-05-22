@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-	background: linear-gradient(rgba(10, 10, 10, 0.6), rgba(0, 0, 0, 0.9)),
-	 repeating-linear-gradient(0, transparent, transparent 2px, black 3px, black 3px), 
-	 url("../img/sema.gif");
 	background-size: cover;
 	color: white;
 	display: flex;
